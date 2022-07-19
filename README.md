@@ -1,7 +1,7 @@
 ##Olá Dev! Sou o Wesley Miranda
 
 - 🔭 Trabalho com Front-End
-- 🌱 Estudando: JavaScript & Sistema da Informção(faculdade)
+- 🌱 Estudando: JavaScript 
 - 📫 Contato: wesleyubuntujs@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡  Frelance: OwlCoder
