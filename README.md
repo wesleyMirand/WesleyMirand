@@ -3,7 +3,7 @@
 - 🔭 Trabalho com Front-End
 - 📫 Contato: wesleyubuntujs@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡  Frelance: OwlCoder
+- ⚡ OwlCoder
 
 <div align="center">
   <a href="https://github.com/WesleyMirand">
