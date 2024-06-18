@@ -1,6 +1,6 @@
 ##Olá Dev! Sou o Wesley Miranda
 
-- 🔭 Trabalho com Front-End
+- 🔭 Trabalho com FullStack Web
 - 📫 Contato: wesleyubuntujs@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ OwlCoder
