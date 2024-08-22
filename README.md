@@ -1,7 +1,8 @@
 ##Olá Dev! Sou o Wesley Miranda
 
-- 🔭 Trabalho com FullStack Web
+- 🔭 Trabalho com FullStack Web e estudo marketing Digital
 - 📫 Contato: wesleyubuntujs@gmail.com
+- Portifolio: https://spaceportifolio.vercel.app/
 - 😄 Pronouns: ele/dele
 - ⚡ OwlCoder
 
